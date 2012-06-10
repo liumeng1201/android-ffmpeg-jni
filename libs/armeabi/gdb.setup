@@ -1,0 +1,4 @@
+set solib-search-path /home/xiaoyu-wang/workspace/TestFFmpegJNI/obj/local/armeabi
+directory /home/xiaoyu-wang/work/android-ndk-r4b/build/platforms/android-8/arch-arm/usr/include
+directory /home/xiaoyu-wang/workspace/TestFFmpegJNI/jni/player-jni
+directory /home/xiaoyu-wang/workspace/TestFFmpegJNI/jni/player-jni

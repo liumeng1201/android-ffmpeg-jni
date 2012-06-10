@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ResearchProject_mgr/!svn/ver/71/FFMpegPlayer/source/TestFFmpegJNI/jni/player-jni
+END
+utility.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ResearchProject_mgr/!svn/ver/50/FFMpegPlayer/source/TestFFmpegJNI/jni/player-jni/utility.c
+END
+ao.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ResearchProject_mgr/!svn/ver/50/FFMpegPlayer/source/TestFFmpegJNI/jni/player-jni/ao.c
+END
+decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ResearchProject_mgr/!svn/ver/50/FFMpegPlayer/source/TestFFmpegJNI/jni/player-jni/decode.c
+END
+input.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ResearchProject_mgr/!svn/ver/50/FFMpegPlayer/source/TestFFmpegJNI/jni/player-jni/input.h
+END
+utility.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ResearchProject_mgr/!svn/ver/50/FFMpegPlayer/source/TestFFmpegJNI/jni/player-jni/utility.h
+END
+queue.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ResearchProject_mgr/!svn/ver/70/FFMpegPlayer/source/TestFFmpegJNI/jni/player-jni/queue.c
+END
+ao_android_wrapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ResearchProject_mgr/!svn/ver/50/FFMpegPlayer/source/TestFFmpegJNI/jni/player-jni/ao_android_wrapper.cpp
+END
+ao.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ResearchProject_mgr/!svn/ver/50/FFMpegPlayer/source/TestFFmpegJNI/jni/player-jni/ao.h
+END
+decode.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ResearchProject_mgr/!svn/ver/50/FFMpegPlayer/source/TestFFmpegJNI/jni/player-jni/decode.h
+END
+queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ResearchProject_mgr/!svn/ver/50/FFMpegPlayer/source/TestFFmpegJNI/jni/player-jni/queue.h
+END
+vo.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ResearchProject_mgr/!svn/ver/50/FFMpegPlayer/source/TestFFmpegJNI/jni/player-jni/vo.c
+END
+vo_android_wrapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ResearchProject_mgr/!svn/ver/65/FFMpegPlayer/source/TestFFmpegJNI/jni/player-jni/vo_android_wrapper.cpp
+END
+ao_android.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ResearchProject_mgr/!svn/ver/50/FFMpegPlayer/source/TestFFmpegJNI/jni/player-jni/ao_android.c
+END
+vo.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ResearchProject_mgr/!svn/ver/50/FFMpegPlayer/source/TestFFmpegJNI/jni/player-jni/vo.h
+END
+output.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ResearchProject_mgr/!svn/ver/50/FFMpegPlayer/source/TestFFmpegJNI/jni/player-jni/output.c
+END
+player.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ResearchProject_mgr/!svn/ver/71/FFMpegPlayer/source/TestFFmpegJNI/jni/player-jni/player.c
+END
+jni.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ResearchProject_mgr/!svn/ver/71/FFMpegPlayer/source/TestFFmpegJNI/jni/player-jni/jni.c
+END
+player.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ResearchProject_mgr/!svn/ver/62/FFMpegPlayer/source/TestFFmpegJNI/jni/player-jni/player.h
+END
+output.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ResearchProject_mgr/!svn/ver/50/FFMpegPlayer/source/TestFFmpegJNI/jni/player-jni/output.h
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ResearchProject_mgr/!svn/ver/68/FFMpegPlayer/source/TestFFmpegJNI/jni/player-jni/Android.mk
+END
+vo_android.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ResearchProject_mgr/!svn/ver/52/FFMpegPlayer/source/TestFFmpegJNI/jni/player-jni/vo_android.c
+END
+input.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ResearchProject_mgr/!svn/ver/50/FFMpegPlayer/source/TestFFmpegJNI/jni/player-jni/input.c
+END

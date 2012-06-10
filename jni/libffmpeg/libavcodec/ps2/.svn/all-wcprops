@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/ps2
+END
+dsputil_mmi.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/ps2/dsputil_mmi.c
+END
+mmi.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/ps2/mmi.h
+END
+mpegvideo_mmi.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/ps2/mpegvideo_mmi.c
+END
+idct_mmi.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/ps2/idct_mmi.c
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/bfin
+END
+pixels_bfin.S
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/bfin/pixels_bfin.S
+END
+config_bfin.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/bfin/config_bfin.h
+END
+idct_bfin.S
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/bfin/idct_bfin.S
+END
+mathops.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/bfin/mathops.h
+END
+vp3_bfin.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/bfin/vp3_bfin.c
+END
+mpegvideo_bfin.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/bfin/mpegvideo_bfin.c
+END
+dsputil_bfin.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/bfin/dsputil_bfin.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/bfin/Makefile
+END
+vp3_idct_bfin.S
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/bfin/vp3_idct_bfin.S
+END
+fdct_bfin.S
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/bfin/fdct_bfin.S
+END
+dsputil_bfin.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/bfin/dsputil_bfin.h
+END

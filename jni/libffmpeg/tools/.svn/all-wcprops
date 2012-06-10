@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tools
+END
+qt-faststart.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tools/qt-faststart.c
+END
+cws2fws.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tools/cws2fws.c
+END
+patcheck
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tools/patcheck
+END
+probetest.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tools/probetest.c
+END
+clean-diff
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tools/clean-diff
+END
+trasher.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tools/trasher.c
+END
+graph2dot.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tools/graph2dot.c
+END
+build_avopt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tools/build_avopt
+END
+unwrap-diff
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tools/unwrap-diff
+END
+pktdumper.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tools/pktdumper.c
+END

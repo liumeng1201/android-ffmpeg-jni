@@ -1,0 +1,677 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek
+END
+%02d.ppm.ref
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/%2502d.ppm.ref
+END
+lavf.au.ref
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/lavf.au.ref
+END
+pcm_f32be.au.ref
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/pcm_f32be.au.ref
+END
+pcm_f64be.au.ref
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/pcm_f64be.au.ref
+END
+pcm_s24daud.302.ref
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/pcm_s24daud.302.ref
+END
+lavf.wav.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/lavf.wav.ref
+END
+mpeg2ivlc-qprd.mpg.ref
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/mpeg2ivlc-qprd.mpg.ref
+END
+pcm_alaw.wav.ref
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/pcm_alaw.wav.ref
+END
+pcm_s32le.wav.ref
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/pcm_s32le.wav.ref
+END
+lavf.rm.ref
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/lavf.rm.ref
+END
+%02d.tiff.ref
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/%2502d.tiff.ref
+END
+pcm_u8.wav.ref
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/pcm_u8.wav.ref
+END
+lavf.flv.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/lavf.flv.ref
+END
+mpeg4-nr.avi.ref
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/mpeg4-nr.avi.ref
+END
+lavf.y4m.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/lavf.y4m.ref
+END
+snow.avi.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/snow.avi.ref
+END
+h261.avi.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/h261.avi.ref
+END
+lavf.asf.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/lavf.asf.ref
+END
+adpcm_qt.aiff.ref
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/adpcm_qt.aiff.ref
+END
+pgmpipe.pgm.ref
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/pgmpipe.pgm.ref
+END
+h263.avi.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/h263.avi.ref
+END
+dv.dv.ref
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/dv.dv.ref
+END
+roqav.roq.ref
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/roqav.roq.ref
+END
+mp2.mp2.ref
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/mp2.mp2.ref
+END
+pcm_zork.wav.ref
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/pcm_zork.wav.ref
+END
+mpeg2i.mpg.ref
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/mpeg2i.mpg.ref
+END
+g726.wav.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/g726.wav.ref
+END
+flv.flv.ref
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/flv.flv.ref
+END
+dv50.dv.ref
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/dv50.dv.ref
+END
+%02d.bmp.ref
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/%2502d.bmp.ref
+END
+pcm_f64le.wav.ref
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/pcm_f64le.wav.ref
+END
+ac3.rm.ref
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/ac3.rm.ref
+END
+alac.m4a.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/alac.m4a.ref
+END
+pcm_s24be.mov.ref
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/pcm_s24be.mov.ref
+END
+odivx.mp4.ref
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/odivx.mp4.ref
+END
+lavf.swf.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/lavf.swf.ref
+END
+adpcm_yam.wav.ref
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/adpcm_yam.wav.ref
+END
+mpeg2reuse.mpg.ref
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/mpeg2reuse.mpg.ref
+END
+dv411.dv.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/dv411.dv.ref
+END
+mpeg1.mpg.ref
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/mpeg1.mpg.ref
+END
+mpeg2.mpg.ref
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/mpeg2.mpg.ref
+END
+%02d.sgi.ref
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/%2502d.sgi.ref
+END
+lavf.nut.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/lavf.nut.ref
+END
+lavf.ogg.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/lavf.ogg.ref
+END
+pcm_s24le.wav.ref
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/pcm_s24le.wav.ref
+END
+msmpeg4v2.avi.ref
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/msmpeg4v2.avi.ref
+END
+lavf.mov.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/lavf.mov.ref
+END
+adpcm_ms.wav.ref
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/adpcm_ms.wav.ref
+END
+wmav1.asf.ref
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/wmav1.asf.ref
+END
+lavf.gxf.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/lavf.gxf.ref
+END
+wmav2.asf.ref
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/wmav2.asf.ref
+END
+lavf.mkv.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/lavf.mkv.ref
+END
+lavf.mxf.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/lavf.mxf.ref
+END
+huffyuv.avi.ref
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/huffyuv.avi.ref
+END
+asv1.avi.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/asv1.avi.ref
+END
+asv2.avi.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/asv2.avi.ref
+END
+error-mpeg4-adv.avi.ref
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/error-mpeg4-adv.avi.ref
+END
+ppmpipe.ppm.ref
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/ppmpipe.ppm.ref
+END
+lavf.mpg.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/lavf.mpg.ref
+END
+mpeg4-adv.avi.ref
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/mpeg4-adv.avi.ref
+END
+pcm_s16be.mov.ref
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/pcm_s16be.mov.ref
+END
+adpcm_swf.flv.ref
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/adpcm_swf.flv.ref
+END
+pcm_s16be.mkv.ref
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/pcm_s16be.mkv.ref
+END
+ffv1.avi.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/ffv1.avi.ref
+END
+lavf.ffm.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/lavf.ffm.ref
+END
+rv10.rm.ref
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/rv10.rm.ref
+END
+rv20.rm.ref
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/rv20.rm.ref
+END
+lavf.ts.ref
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/lavf.ts.ref
+END
+svq1.mov.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/svq1.mov.ref
+END
+pcm_s16le.wav.ref
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/pcm_s16le.wav.ref
+END
+flac.flac.ref
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/flac.flac.ref
+END
+mpeg4-thread.avi.ref
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/mpeg4-thread.avi.ref
+END
+h263p.avi.ref
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/h263p.avi.ref
+END
+mpeg2threadivlc.mpg.ref
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/mpeg2threadivlc.mpg.ref
+END
+dnxhd-1080i.mov.ref
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/dnxhd-1080i.mov.ref
+END
+mpeg4-qprd.avi.ref
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/mpeg4-qprd.avi.ref
+END
+lavf.aif.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/lavf.aif.ref
+END
+pbmpipe.pbm.ref
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/pbmpipe.pbm.ref
+END
+mpeg4-adap.avi.ref
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/mpeg4-adap.avi.ref
+END
+wmv1.avi.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/wmv1.avi.ref
+END
+mpeg2_422.mpg.ref
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/mpeg2_422.mpg.ref
+END
+wmv2.avi.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/wmv2.avi.ref
+END
+mpeg4-Q.avi.ref
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/mpeg4-Q.avi.ref
+END
+ljpeg.avi.ref
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/ljpeg.avi.ref
+END
+lavf.dv.ref
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/lavf.dv.ref
+END
+mjpeg.avi.ref
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/mjpeg.avi.ref
+END
+lavf.gif.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/lavf.gif.ref
+END
+lavf.mmf.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/lavf.mmf.ref
+END
+dnxhd-720p-rd.dnxhd.ref
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/dnxhd-720p-rd.dnxhd.ref
+END
+%02d.tga.ref
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/%2502d.tga.ref
+END
+lavf.ul.ref
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/lavf.ul.ref
+END
+lavf.voc.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/lavf.voc.ref
+END
+%02d.pgm.ref
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/%2502d.pgm.ref
+END
+snow53.avi.ref
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/snow53.avi.ref
+END
+lavf.avi.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/lavf.avi.ref
+END
+mpeg1b.mpg.ref
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/mpeg1b.mpg.ref
+END
+mpeg2thread.mpg.ref
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/mpeg2thread.mpg.ref
+END
+msmpeg4.avi.ref
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/msmpeg4.avi.ref
+END
+%02d.jpg.ref
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/%2502d.jpg.ref
+END
+pcm_s8.mov.ref
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/pcm_s8.mov.ref
+END
+adpcm_ima.wav.ref
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/adpcm_ima.wav.ref
+END
+pcm_mulaw.wav.ref
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/pcm_mulaw.wav.ref
+END
+lavf.al.ref
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/lavf.al.ref
+END
+%02d.pcx.ref
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/%2502d.pcx.ref
+END
+mpeg4-rc.avi.ref
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/mpeg4-rc.avi.ref
+END
+jpegls.avi.ref
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/jpegls.avi.ref
+END
+flashsv.flv.ref
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/flashsv.flv.ref
+END
+pcm_s32be.mov.ref
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/pcm_s32be.mov.ref
+END
+pcm_s16le.mkv.ref
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/pcm_s16le.mkv.ref
+END
+lavf.mxf_d10.ref
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/lavf.mxf_d10.ref
+END
+pcm_f32le.wav.ref
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/pcm_f32le.wav.ref
+END
+dnxhd-720p.dnxhd.ref
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/seek/dnxhd-720p.dnxhd.ref
+END

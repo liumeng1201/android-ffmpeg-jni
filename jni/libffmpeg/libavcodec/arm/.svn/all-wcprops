@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm
+END
+simple_idct_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/simple_idct_neon.S
+END
+h264dsp_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/h264dsp_neon.S
+END
+dsputil_init_vfp.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/dsputil_init_vfp.c
+END
+dsputil_armv6.S
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/dsputil_armv6.S
+END
+dsputil_arm.S
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/dsputil_arm.S
+END
+h264idct_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/h264idct_neon.S
+END
+mpegvideo_iwmmxt.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/mpegvideo_iwmmxt.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/Makefile
+END
+int_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/int_neon.S
+END
+fft_init_arm.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/fft_init_arm.c
+END
+dsputil_init_armv5te.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/dsputil_init_armv5te.c
+END
+h264pred_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/h264pred_neon.S
+END
+mdct_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/mdct_neon.S
+END
+vp56dsp_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/vp56dsp_neon.S
+END
+mpegvideo_armv5te.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/mpegvideo_armv5te.c
+END
+rdft_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/rdft_neon.S
+END
+dsputil_arm.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/dsputil_arm.h
+END
+dsputil_init_armv6.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/dsputil_init_armv6.c
+END
+dsputil_init_neon.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/dsputil_init_neon.c
+END
+dsputil_init_arm.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/dsputil_init_arm.c
+END
+synth_filter_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/synth_filter_neon.S
+END
+asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/asm.S
+END
+dcadsp_init_arm.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/dcadsp_init_arm.c
+END
+mathops.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/mathops.h
+END
+fft_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/fft_neon.S
+END
+h264dsp_init_arm.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/h264dsp_init_arm.c
+END
+mpegvideo_arm.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/mpegvideo_arm.c
+END
+dsputil_vfp.S
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/dsputil_vfp.S
+END
+simple_idct_armv5te.S
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/simple_idct_armv5te.S
+END
+mpegvideo_arm.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/mpegvideo_arm.h
+END
+vp3dsp_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/vp3dsp_neon.S
+END
+dsputil_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/dsputil_neon.S
+END
+h264pred_init_arm.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/h264pred_init_arm.c
+END
+simple_idct_arm.S
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/simple_idct_arm.S
+END
+dsputil_iwmmxt.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/dsputil_iwmmxt.c
+END
+vp56dsp_init_arm.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/vp56dsp_init_arm.c
+END
+simple_idct_armv6.S
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/simple_idct_armv6.S
+END
+dcadsp_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/dcadsp_neon.S
+END
+mpegvideo_armv5te_s.S
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/mpegvideo_armv5te_s.S
+END
+aac.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/aac.h
+END
+jrevdct_arm.S
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/jrevdct_arm.S
+END
+dsputil_iwmmxt_rnd_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/arm/dsputil_iwmmxt_rnd_template.c
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/acodec
+END
+ac3
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/acodec/ac3
+END
+adpcm_ima_wav
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/acodec/adpcm_ima_wav
+END
+g726
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/acodec/g726
+END
+wmav1
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/acodec/wmav1
+END
+wmav2
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/acodec/wmav2
+END
+flac
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/acodec/flac
+END
+pcm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/acodec/pcm
+END
+adpcm_swf
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/acodec/adpcm_swf
+END
+alac
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/acodec/alac
+END
+adpcm_yam
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/acodec/adpcm_yam
+END
+adpcm_ima_qt
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/acodec/adpcm_ima_qt
+END
+adpcm_ms
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/acodec/adpcm_ms
+END
+mp2
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/acodec/mp2
+END

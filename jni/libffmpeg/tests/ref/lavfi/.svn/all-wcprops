@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/lavfi
+END
+crop
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/lavfi/crop
+END
+vflip
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/lavfi/vflip
+END
+crop_vflip
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/lavfi/crop_vflip
+END
+vflip_vflip
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/lavfi/vflip_vflip
+END
+null
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/lavfi/null
+END
+scale200
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/lavfi/scale200
+END
+crop_scale
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/lavfi/crop_scale
+END
+scale500
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/lavfi/scale500
+END
+vflip_crop
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/lavfi/vflip_crop
+END
+crop_scale_vflip
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ref/lavfi/crop_scale_vflip
+END

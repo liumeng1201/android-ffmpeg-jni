@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests
+END
+regression-funcs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/regression-funcs.sh
+END
+rotozoom.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/rotozoom.c
+END
+md5.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/md5.sh
+END
+videogen.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/videogen.c
+END
+codec-regression.sh
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/codec-regression.sh
+END
+lena.pnm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/lena.pnm
+END
+seek-regression.sh
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/seek-regression.sh
+END
+seek_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/seek_test.c
+END
+ffserver.conf
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ffserver.conf
+END
+audiogen.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/audiogen.c
+END
+ffserver.regression.ref
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ffserver.regression.ref
+END
+fate.mak
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/fate.mak
+END
+ffserver-regression.sh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/ffserver-regression.sh
+END
+copycooker.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/copycooker.sh
+END
+lavfi-regression.sh
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/lavfi-regression.sh
+END
+fate-run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/fate-run.sh
+END
+fate-update.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/fate-update.sh
+END
+lavf-regression.sh
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/lavf-regression.sh
+END
+tiny_psnr.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/tiny_psnr.c
+END
+copy.regression.ref
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/tests/copy.regression.ref
+END

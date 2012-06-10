@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ResearchProject_mgr/!svn/ver/71/FFMpegPlayer/source/TestFFmpegJNI/libs/armeabi
+END
+libffmpeg.so
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ResearchProject_mgr/!svn/ver/67/FFMpegPlayer/source/TestFFmpegJNI/libs/armeabi/libffmpeg.so
+END
+gdb.setup
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ResearchProject_mgr/!svn/ver/68/FFMpegPlayer/source/TestFFmpegJNI/libs/armeabi/gdb.setup
+END
+gdbserver
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ResearchProject_mgr/!svn/ver/63/FFMpegPlayer/source/TestFFmpegJNI/libs/armeabi/gdbserver
+END
+libplayer-9.so
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ResearchProject_mgr/!svn/ver/71/FFMpegPlayer/source/TestFFmpegJNI/libs/armeabi/libplayer-9.so
+END
+libplayer-8.so
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ResearchProject_mgr/!svn/ver/71/FFMpegPlayer/source/TestFFmpegJNI/libs/armeabi/libplayer-8.so
+END

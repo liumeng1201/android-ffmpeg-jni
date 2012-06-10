@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/doc
+END
+ffmpeg-doc.texi
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/doc/ffmpeg-doc.texi
+END
+fftools-common-opts.texi
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/doc/fftools-common-opts.texi
+END
+ffserver-doc.texi
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/doc/ffserver-doc.texi
+END
+tablegen.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/doc/tablegen.txt
+END
+snow.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/doc/snow.txt
+END
+developer.texi
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/doc/developer.texi
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/doc/TODO
+END
+swscale.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/doc/swscale.txt
+END
+general.texi
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/doc/general.texi
+END
+soc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/doc/soc.txt
+END
+APIchanges
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/doc/APIchanges
+END
+optimization.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/doc/optimization.txt
+END
+ffserver.conf
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/doc/ffserver.conf
+END
+ffplay-doc.texi
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/doc/ffplay-doc.texi
+END
+issue_tracker.txt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/doc/issue_tracker.txt
+END
+ffprobe-doc.texi
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/doc/ffprobe-doc.texi
+END
+texi2pod.pl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/doc/texi2pod.pl
+END
+viterbi.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/doc/viterbi.txt
+END
+avutil.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/doc/avutil.txt
+END
+faq.texi
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/doc/faq.texi
+END
+ffmpeg_powerpc_performance_evaluation_howto.txt
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/doc/ffmpeg_powerpc_performance_evaluation_howto.txt
+END
+rate_distortion.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/doc/rate_distortion.txt
+END
+libavfilter.texi
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/doc/libavfilter.texi
+END

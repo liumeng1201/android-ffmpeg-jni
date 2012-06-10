@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libswscale/ppc
+END
+swscale_altivec_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libswscale/ppc/swscale_altivec_template.c
+END
+yuv2rgb_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libswscale/ppc/yuv2rgb_altivec.c
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libswscale/x86
+END
+yuv2rgb_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libswscale/x86/yuv2rgb_mmx.c
+END
+yuv2rgb_template2.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libswscale/x86/yuv2rgb_template2.c
+END
+yuv2rgb_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libswscale/x86/yuv2rgb_template.c
+END

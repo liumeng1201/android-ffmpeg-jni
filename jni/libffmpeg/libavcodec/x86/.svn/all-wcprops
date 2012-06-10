@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86
+END
+vp6dsp_sse2.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/vp6dsp_sse2.h
+END
+x86util.asm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/x86util.asm
+END
+dsputilenc_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/dsputilenc_mmx.c
+END
+simple_idct_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/simple_idct_mmx.c
+END
+h264dsp_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/h264dsp_mmx.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/Makefile
+END
+motion_est_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/motion_est_mmx.c
+END
+dsputil_h264_template_ssse3.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/dsputil_h264_template_ssse3.c
+END
+idct_sse2_xvid.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/idct_sse2_xvid.c
+END
+rv40dsp_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/rv40dsp_mmx.c
+END
+dsputil_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/dsputil_mmx.c
+END
+mmx.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/mmx.h
+END
+vp6dsp_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/vp6dsp_mmx.c
+END
+cavsdsp_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/cavsdsp_mmx.c
+END
+dsputil_mmx.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/dsputil_mmx.h
+END
+vp6dsp_mmx.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/vp6dsp_mmx.h
+END
+fft_mmx.asm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/fft_mmx.asm
+END
+idct_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/idct_mmx.c
+END
+dsputil_mmx_qns_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/dsputil_mmx_qns_template.c
+END
+dsputil_h264_template_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/dsputil_h264_template_mmx.c
+END
+mpegvideo_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/mpegvideo_mmx.c
+END
+h264_deblock_sse2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/h264_deblock_sse2.asm
+END
+mathops.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/mathops.h
+END
+mlpdsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/mlpdsp.c
+END
+idct_xvid.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/idct_xvid.h
+END
+fft_3dn.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/fft_3dn.c
+END
+idct_mmx_xvid.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/idct_mmx_xvid.c
+END
+fft.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/fft.c
+END
+dsputil_mmx_rnd_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/dsputil_mmx_rnd_template.c
+END
+vc1dsp_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/vc1dsp_mmx.c
+END
+dsputil_yasm.asm
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/dsputil_yasm.asm
+END
+snowdsp_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/snowdsp_mmx.c
+END
+lpc_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/lpc_mmx.c
+END
+fft.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/fft.h
+END
+fft_sse.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/fft_sse.c
+END
+fft_3dn2.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/fft_3dn2.c
+END
+x86inc.asm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/x86inc.asm
+END
+h264_idct_sse2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/h264_idct_sse2.asm
+END
+vp3dsp_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/vp3dsp_mmx.c
+END
+cpuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/cpuid.c
+END
+dnxhd_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/dnxhd_mmx.c
+END
+vp3dsp_sse2.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/vp3dsp_sse2.c
+END
+h264_i386.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/h264_i386.h
+END
+vp3dsp_mmx.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/vp3dsp_mmx.h
+END
+vp6dsp_sse2.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/vp6dsp_sse2.c
+END
+fdct_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/fdct_mmx.c
+END
+vp3dsp_sse2.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/vp3dsp_sse2.h
+END
+mpegvideo_mmx_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/mpegvideo_mmx_template.c
+END
+dsputil_mmx_avg_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/libavcodec/x86/dsputil_mmx_avg_template.c
+END

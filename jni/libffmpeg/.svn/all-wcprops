@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/Makefile
+END
+common.mak
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/common.mak
+END
+COPYING.LGPLv3
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/COPYING.LGPLv3
+END
+COPYING.LGPLv2.1
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/COPYING.LGPLv2.1
+END
+MAINTAINERS
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/MAINTAINERS
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/Android.mk
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/LICENSE
+END
+ffprobe.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/ffprobe.c
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/configure
+END
+cmdutils_common_opts.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/cmdutils_common_opts.h
+END
+RELEASE
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/RELEASE
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/Doxyfile
+END
+ffplay.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/ffplay.c
+END
+version.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/version.sh
+END
+config.mak
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/config.mak
+END
+cmdutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/cmdutils.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/README
+END
+.config
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/.config
+END
+cmdutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/cmdutils.h
+END
+Changelog
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/Changelog
+END
+subdir.mak
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/subdir.mak
+END
+av.mk
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/av.mk
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/VERSION
+END
+ffserver.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/ffserver.c
+END
+config.err
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/config.err
+END
+ffmpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/ffmpeg.c
+END
+CREDITS
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/CREDITS
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/INSTALL
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/config.h
+END
+ffserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/ffserver.h
+END
+COPYING.GPLv2
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/COPYING.GPLv2
+END
+COPYING.GPLv3
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ResearchProject_mgr/!svn/ver/64/FFMpegPlayer/source/TestFFmpegJNI/jni/libffmpeg/COPYING.GPLv3
+END

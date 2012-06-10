@@ -1,0 +1,12 @@
+prefix=
+exec_prefix=
+libdir=${pcfiledir}
+includedir=/home/ksh8281/IMPlayer/jni
+
+Name: libavfilter
+Description: FFmpeg video filtering library
+Version: 1.19.0
+Requires: libavutil = 50.15.1
+Conflicts:
+Libs: ${libdir}/libavfilter.a  
+Cflags: -I${includedir}
